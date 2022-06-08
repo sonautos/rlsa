@@ -1,0 +1,19 @@
+
+.content-wrapper {
+    background: #ffffff;
+}
+
+.dataTables_scrollBody, .dataTables_wrapper {
+    position: static !important;
+}
+.dropdown-button {
+    cursor: pointer;
+    font-size: 2em;
+    display:block
+}
+.dropdown-menu i {
+    font-size: 1.33333333em;
+    line-height: 0.75em;
+    vertical-align: -15%;
+    color: #000;
+}
